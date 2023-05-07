@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="400" width="800" />  
+<img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="400" width="1100" />  
   
 
 ## Hi 👋, I'm Gabriel Francisco Romero Rocha  
@@ -19,21 +19,9 @@ You can send me a message in my linkedin!
 <a href="https://github.com/GabRom98" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/gabriel-francisco-romero-rocha/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 </div>  
   
 
@@ -58,7 +46,7 @@ You can send me a message in my linkedin!
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/550x/a4/67/b1/a467b10e2a3c0a75e066b841be7edbb3.jpg" align="center" style="width: 100%" />
 </div>  
 
 
