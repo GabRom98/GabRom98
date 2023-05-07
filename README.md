@@ -31,7 +31,7 @@ You can send me a message in my linkedin!
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [MedicalConnect!](https://github.com/MedicalConnect/Medical-ConnectAr)  
+- 🔭 I’m currently working on [MedicalConnect!](https://github.com/GabRom98/Medical-ConnectAr)  
   
 
 - 🌱 I’m currently learning Java!  
