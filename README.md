@@ -37,7 +37,7 @@ You can send me a message in my linkedin!
 - 🌱 I’m currently learning Java!  
   
 
-- <div align="center">❓ Ask me about anything related to Html || Css || Javascript || React || Node.js || sequelize || postgress</div>  
+- <div align="center">❓ Ask me about anything related to Html || Css || Javascript || React || Node.js || sequelize || postgres</div>  
   
 
 - ⚡ Fun fact: I love the dogs and athletics  
