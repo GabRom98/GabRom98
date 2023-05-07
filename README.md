@@ -1,4 +1,4 @@
-<img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="300" width="800" />  
+<img src="https://img.freepik.com/vector-premium/hello-world-es-palabra-simple-primera-programacion-programador_48644-298.jpg" align="left" height="400" width="800" />  
   
 
 ## Hi 👋, I'm Gabriel Francisco Romero Rocha  
@@ -110,6 +110,3 @@ You can send me a message in my linkedin!
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
